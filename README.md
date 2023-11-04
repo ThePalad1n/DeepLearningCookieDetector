@@ -12,11 +12,11 @@ For this lab I took 32 pictures of good cookies and 24 pictures of bad cookies f
 
 Training Network:
 
-INSERT IMAGE OF NETWORK TRAINING HERE
+[Image of training network](https://drive.google.com/file/d/1i9L8cp-GhK8cX76aVoVHaomCuvVi0-uN/view?usp=sharing)
 
 Training Output:
 
-INSERT OUTPUT
+[Training Output Information](https://drive.google.com/file/d/19RNe4ySloMPEwx2TxtXLRoDegvFl01qT/view?usp=sharing)
 
 From there I set up my camera and set up my environment variables for the test. This included mounting the camera so that my hands were free and minimizing lighting from screens and other rooms. 
 
@@ -35,8 +35,8 @@ Overall the final product was accurate in detecting if a cookie was bad or good.
 ## Resources
 Data Sets (Images): 
 
-Good_Cookies: 
-https://drive.google.com/file/d/11B0IH7DBVvynnSRnjGDJBmWLp5qZ1djB/view?usp=sharing 
+[Good_Cookies](https://drive.google.com/file/d/11B0IH7DBVvynnSRnjGDJBmWLp5qZ1djB/view?usp=sharing ) 
 
-Bad_Cookies: 
-https://drive.google.com/file/d/19NG_gFWv2hOkRC8fd0P-quF9G_Nmitsv/view?usp=sharing 
+
+[Bad_Cookies](https://drive.google.com/file/d/19NG_gFWv2hOkRC8fd0P-quF9G_Nmitsv/view?usp=sharing )
+
