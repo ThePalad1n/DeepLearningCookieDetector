@@ -26,5 +26,9 @@ Overall the final product was accurate in detecting if a cookie was bad or good.
 
 ## Resources
 Data Sets (Images): 
-Good_Cookies: https://drive.google.com/file/d/11B0IH7DBVvynnSRnjGDJBmWLp5qZ1djB/view?usp=sharing 
-Bad_Cookies: https://drive.google.com/file/d/19NG_gFWv2hOkRC8fd0P-quF9G_Nmitsv/view?usp=sharing 
+
+Good_Cookies: 
+https://drive.google.com/file/d/11B0IH7DBVvynnSRnjGDJBmWLp5qZ1djB/view?usp=sharing 
+
+Bad_Cookies: 
+https://drive.google.com/file/d/19NG_gFWv2hOkRC8fd0P-quF9G_Nmitsv/view?usp=sharing 
