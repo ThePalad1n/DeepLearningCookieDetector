@@ -12,16 +12,17 @@ From there I set up my camera and set up my environment variables for the test. 
 
 ## Detection:
 
+Video:
 https://drive.google.com/file/d/1zX_-Ia08PwFvk3M9wjV7VmrP9rV0_5P8/view?usp=sharing 
 
 As you can see it did fairly well when detecting bad cookies and an excellent job detecting good cookies.I would like to add more images and refine my external variables in the future.
 
-## Conclusion: Overall the final product was accurate in detecting if a cookie was bad or good. The most difficult part was modifying the options so that the trained network was refined and accurate. I spent several hours refining this and the environment. After all things were set and optimized the network performed well. I think if I were to redo this project I would take an equal amount of pictures for both the good cookies and the bad cookies. Very cool project and I know why you pushed it so much. The applications that can be used with this training are almost unbounded. A more stable environment and better instrumentation would do a lot of justice.
+## Conclusion: 
+
+Overall the final product was accurate in detecting if a cookie was bad or good. The most difficult part was modifying the options so that the trained network was refined and accurate. I spent several hours refining this and the environment. After all things were set and optimized the network performed well. I think if I were to redo this project I would take an equal amount of pictures for both the good cookies and the bad cookies. Very cool project and I know why you pushed it so much. The applications that can be used with this training are almost unbounded. A more stable environment and better instrumentation would do a lot of justice.
 
 
 ## Resources
-Code can be found on the repository: https://github.com/ThePalad1n/DeepLearningCookieDetector 
-
 Data Sets (Images): 
 Good_Cookies: https://drive.google.com/file/d/11B0IH7DBVvynnSRnjGDJBmWLp5qZ1djB/view?usp=sharing 
 Bad_Cookies: https://drive.google.com/file/d/19NG_gFWv2hOkRC8fd0P-quF9G_Nmitsv/view?usp=sharing 
