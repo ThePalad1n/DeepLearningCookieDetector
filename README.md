@@ -1,12 +1,14 @@
-# DeepLearning Cookie Detector
+# DeepLearning Cookie Detector Report
 
 ## Problem Statement: 
 
 Design, develop and test a Deep Learning Network to classify good crackers versus broken crackers based on transfer learning with the Alexnet network. 
 
-## Intro
+## Setting Up
 
 For this lab I took 32 pictures of good cookies and 24 pictures of bad cookies for my network. The first step was to train the network. After the pictures were taken and separated I made the network. I spent a lot of time modifying the options to streamline and refine the network.
+
+## Results
 
 Training Network:
 
@@ -18,7 +20,7 @@ INSERT OUTPUT
 
 From there I set up my camera and set up my environment variables for the test. This included mounting the camera so that my hands were free and minimizing lighting from screens and other rooms. 
 
-## Detection:
+## Detection Results:
 
 Video:
 https://drive.google.com/file/d/1zX_-Ia08PwFvk3M9wjV7VmrP9rV0_5P8/view?usp=sharing 
