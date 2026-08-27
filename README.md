@@ -2,7 +2,7 @@
 
 ## Problem Statement: 
 
-Design, develop and test a Deep Learning Network to classify good crackers versus broken crackers based on transfer learning with the Alexnet network. 
+Design, develop and test a Deep Learning Network to classify good cookies versus broken cookies based on transfer learning with the Alexnet network. 
 
 ## Setting Up
 
